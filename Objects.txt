@@ -1,0 +1,10 @@
+objects and its internal representation in Javascript:
+ In JavaScript, an object is a collection of key-value pairs that represent properties of an entity. The keys are strings. Raj Kumar. Objects are complex and each object may contain a combination of primitive data-types as well as reference data-types.
+
+These objects are quite different from JavaScript’s primitive data-types(Number, String, Boolean, null, undefined and symbol) in the sense that while these primitive data-types all store a single value each (depending on their types).
+
+For Example:
+let’s create an object named Car 
+give it properties named make, model, and year.
+car -object
+car color, model -properties
